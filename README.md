@@ -1,5 +1,7 @@
 # SuperMap iClient JavaScript
 
+> 修改依赖的xlsx版本，在无法访问sheetjs时也可安装
+
 [![npm version](https://img.shields.io/npm/v/@supermap/iclient-common.svg)](https://www.npmjs.com/org/supermapgis)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSuperMap%2FiClient-JavaScript.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSuperMap%2FiClient-JavaScript?ref=badge_shield)
 
